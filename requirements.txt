@@ -1,6 +1,6 @@
 pandas
 numpy
 xgboost
-sklearn
+scikit-learn
 simplejson
 streamlit_lottie
